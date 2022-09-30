@@ -1,7 +1,7 @@
 //
 // Created by Chani Lornel on 9/29/22.
 //
-#include "Phonebook.h"
+#include "phonebook.h"
 
 phonebook::phonebook() : contacts_number(0){}
 
@@ -12,7 +12,7 @@ bool phonebook::add_new_contact() {
 		return (true);
 	}
 	else
-		return(false);
+		return (false);
 }
 
 void phonebook::show_contacts() {
