@@ -1,0 +1,3 @@
+/Users/clornel/CLionProjects/CPP Module 00/cmake-build-debug/CMakeFiles/untitled.dir
+/Users/clornel/CLionProjects/CPP Module 00/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/clornel/CLionProjects/CPP Module 00/cmake-build-debug/CMakeFiles/rebuild_cache.dir
